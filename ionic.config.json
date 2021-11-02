@@ -1,0 +1,7 @@
+{
+  "name": "Maza Eats",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
